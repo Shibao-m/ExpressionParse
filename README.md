@@ -11,11 +11,10 @@
 
 また、確認用として数式の計算結果の確認や、そのためのGUIもデモ用に用意しました。
 
-C#で実装しています。
-
-・ExpressionParser名前空間
-　　ExpressionParserクラス・・・構文解析を行う。このデモのメイン。結果は逆ポーランド記法で出力する。
+C#で実装しています。<br>
+・ExpressionParser名前空間<br>
+　　ExpressionParserクラス・・・構文解析を行う。このデモのメイン。結果は逆ポーランド記法で出力する。<br>
 　　Evaluatorクラス・・・逆ポーランド記法から式評価を行い、計算結果を返す。確認用に簡単に実装したのみ。
 
-・ExpressionParserProj名前空間
+・ExpressionParserProj名前空間<br>
 　　MainFormクラス・・・GUI画面
