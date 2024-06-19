@@ -21,3 +21,5 @@ C#で実装しています。<br>
 
 # デモ画面
 ![デモ画面](https://github.com/Shibao-m/ExpressionParse/assets/173250436/99c91eb3-f456-4ef4-af5c-aa22bbcba69e)
+
+※ / は整数商（小数点以下切り捨て）を表す。piは整数 3 と評価する（円周率もどき）。
