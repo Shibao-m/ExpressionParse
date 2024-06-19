@@ -18,3 +18,6 @@ C#で実装しています。<br>
 
 ・ExpressionParserProj名前空間<br>
 　　MainFormクラス・・・GUI画面
+
+# デモ画面
+![デモ画面](https://github.com/Shibao-m/ExpressionParse/assets/173250436/99c91eb3-f456-4ef4-af5c-aa22bbcba69e)
