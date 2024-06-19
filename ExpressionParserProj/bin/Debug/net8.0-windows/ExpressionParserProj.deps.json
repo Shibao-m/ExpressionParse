@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExpressionParserProj/1.0.0": {
+        "dependencies": {
+          "ExpressionParser": "1.0.0"
+        },
+        "runtime": {
+          "ExpressionParserProj.dll": {}
+        }
+      },
+      "ExpressionParser/1.0.0": {
+        "runtime": {
+          "ExpressionParser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpressionParserProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExpressionParser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
